@@ -45,6 +45,5 @@ Forge Spirit (EEQ)
 Chaos Meteor (EEW)
 Deafening Blast (QWE)
 
-![Image](https://github.com/user-attachments/assets/13567831-1fcf-4a6c-9ad8-c65b8ef28c79)
-![Image](https://github.com/user-attachments/assets/b378596b-3e96-444a-93b8-18b98edab425)
-<img width="1796" height="1008" alt="Image" src="https://github.com/user-attachments/assets/37a3805e-6b32-4b97-8232-e3f93d08feb5" />
+
+![timer](https://github.com/user-attachments/assets/97a91a5b-0a98-49da-9e1e-b5768e54424b)
