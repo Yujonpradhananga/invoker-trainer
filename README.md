@@ -24,6 +24,7 @@ go build -o invoker-trainer .
 sudo cp invoker-trainer /usr/local/bin/
 
 
+
 Usage
 Simply run: invoker-trainer
 
@@ -45,5 +46,4 @@ Forge Spirit (EEQ)
 Chaos Meteor (EEW)
 Deafening Blast (QWE)
 
-![image alt](https://github.com/Yujonpradhananga/invoker-trainer/blob/main/Untitled.png)
 
