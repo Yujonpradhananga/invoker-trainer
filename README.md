@@ -45,5 +45,5 @@ Forge Spirit (EEQ)
 Chaos Meteor (EEW)
 Deafening Blast (QWE)
 
-![image alt](https://github.com/Yujonpradhananga/invoker-trainer/blob/9e06972de734585a7902c2b05cfe061f0407c7f3/Untitled.png)
+![image alt](https://github.com/Yujonpradhananga/invoker-trainer/blob/main/Untitled.png)
 
